@@ -4,12 +4,12 @@
 #include "esp_err.h"
 
 #define WIFI_AP_SSID     "IC-JPEG-CAM"
-#define WIFI_AP_PASS     "icjpeg2024"
+#define WIFI_AP_PASS     "icjpeg"
 #define WIFI_AP_CHANNEL  1
 #define WIFI_AP_MAX_CONN 4
 
-#define WIFI_STA_SSID    "ISAIAS-987678688-G5UNYNET"
-#define WIFI_STA_PASS    "93769208"
+#define WIFI_STA_SSID    "SSID"
+#define WIFI_STA_PASS    "PASS"
 
 /**
  * Initialize WiFi in AP+STA mode.
